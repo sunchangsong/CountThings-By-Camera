@@ -6,7 +6,7 @@ CountThings-By-Camera Using artificial intelligence technology, automatically co
 
 ### Supported Items
 
-#### circular pipe.
+#### Automated Counting circular pipe.
 
 Round tubes of any material can be identified and counted
 
@@ -18,33 +18,33 @@ Counting Metal Steel Pipes 2
 
 https://www.youtube.com/watch?v=xRYqjzJD4nE&list=PLXUi4rfCeUKI2Wx-MmkT3oLcfS7QtOreH&index=4&ab_channel=%E9%98%BF%E9%98%BF%E8%88%8D
 
-#### Cylinder
+#### Automated Counting Cylinder
 
 Cylinder of any material can be identified and counted
 
-#### Ball
+#### Automated Counting Ball
 
-#### square/rectangle
+#### Automated Counting square/rectangle
 
-#### Human
+#### Automated Counting Human
 
-#### colony of bacteria
+#### Automated Counting  Bacterial Colony
 
-youtube demo video: https://www.youtube.com/watch?v=HYL-AVBPPjU
+youtube demo video: https://www.youtube.com/watch?v=HYL-AVBPPjU&list=PLXUi4rfCeUKI2Wx-MmkT3oLcfS7QtOreH
 
-#### Log
+#### Automated Counting Log
 
-#### Red bean
+#### Automated Counting Red bean
 
-#### Rebar
+#### Automated Counting Rebar
 
-#### Soybean
+#### Automated Counting Soybean
 
-#### Black soya bean
+#### Automated Counting Black soya bean
 
-#### Rice grain
+#### Automated Counting Rice grain
 
-#### Fish egg
+#### Automated Counting Fish egg
 
-#### Leather roll
+#### Automated Counting Leather roll
 

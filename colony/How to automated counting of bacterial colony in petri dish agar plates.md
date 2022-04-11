@@ -8,13 +8,13 @@
 
 ​    Open the software, select the picture you need to count, or take a picture directly. The software has no requirements on the environment, as long as the picture is clear.
 
-<img src="image\xijun-1.jpg" style="zoom:33%;" />
+<img src="colony\xijun-1.jpg" style="zoom:33%;" />
 
    ### Second   
 
    The second step is to select the area that needs to be recognized. There will inevitably be redundant areas when taking pictures. Circle selection can improve the speed of recognition.
 
-<img src="image\xijun-2.jpg" style="zoom: 33%;" />
+<img src="colony\xijun-2.jpg" style="zoom: 33%;" />
 
 
 
@@ -22,7 +22,7 @@
 
 click the Identify button, the software will automatically complete the points. It's that simple.
 
-<img src="image\xijun-3.jpg" style="zoom:33%;" />
+<img src="colony\xijun-3.jpg" style="zoom:33%;" />
 
 
 
